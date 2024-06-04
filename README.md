@@ -14,6 +14,8 @@ Capable of predicting, preparing for, and swiftly resolving potential issues, mi
 
 Proficient in rapidly comprehending, reviewing and auditing existing configurations and setups while also excelling at creating high-quality configurations.
 
+[![Octavian's GitHub stats](https://git-stats-octavian.tabuci.org/?username=DrOctavius&theme=merko)](https://github.com/DrOctavius)
+
 <!--
 **DrOctavius/DrOctavius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
