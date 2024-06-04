@@ -1,4 +1,4 @@
-#### Hi there 👋
+### Hi there 👋
 
 Results-driven DevOps 3+ & Software Engineer 9+ years of hands-on experience streamlining development processes and optimizing system performance. Proven expertise in implementing and managing continuous integration and delivery pipelines, leveraging automation tools. Adept at collaborating with cross-functional teams to enhance deployment efficiency, scalability, and system reliability.
 
